@@ -14,4 +14,4 @@ A collection of my solutions to LeetCode algorithmic problems.
 -  Optimize all "Medium" solutions to the best possible time complexity.
 
 ⚖️ License
-This project is MIT licensed. Problem descriptions and test cases are property of LeetCode.
+- This project is MIT licensed. Problem descriptions and test cases are property of LeetCode. 
