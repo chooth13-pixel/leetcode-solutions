@@ -1,8 +1,8 @@
 // Data Structure Design
-// Q3. All O`one Data Structure
+// Title: Q3. All O`one Data Structure
+// Problem Link: https://leetcode.com/problems/all-oone-data-structure/description/?envType=problem-list-v2&envId=ssd-ssd3-data-structure-design
 // Difficulty: Hard
 // Time O(1) Space O(n)
-// Link: https://leetcode.com/problems/all-oone-data-structure/description/?envType=problem-list-v2&envId=ssd-ssd3-data-structure-design
 
 class Node {
     key: string;
