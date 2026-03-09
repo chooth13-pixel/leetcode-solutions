@@ -2,7 +2,7 @@
 // Title: 96. Unique Binary Search Trees
 // Problem Link: https://leetcode.com/problems/unique-binary-search-trees/description/?envType=study-plan-v2&envId=dynamic-programming
 // Difficulty: Medium
-// Time O(n²) Space O(n)
+// Time O(n^2) Space O(n)
 
 function numTrees(n: number): number {
     const dp = new Array(n + 1).fill(0)

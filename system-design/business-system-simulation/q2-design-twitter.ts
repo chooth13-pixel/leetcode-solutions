@@ -2,7 +2,7 @@
 // Title: Q2. Design Twitter 
 // Problem Link: https://leetcode.com/problems/design-twitter/description/?envType=problem-list-v2&envId=ssd-ssd4-business-system-simulation
 // Difficulty: Medium
-// Time O(nlogn) Space O(n)
+// Time O(n x log(n)) Space O(n)
 
 type Tweet = {
     post: number,
