@@ -1,4 +1,4 @@
-// Stack 
+// Monotonic Stack
 // Title: Q1. Final Prices With a Special Discount in a Shop 
 // Problem Link: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/?envType=problem-list-v2&envId=dsa-linear-shoal-monotonic-stack 
 // Difficulty: Easy

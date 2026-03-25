@@ -1,8 +1,8 @@
-// Stack 
+// Monotonic Stack 
 // Title: Q2. Daily Temperatures 
 // Problem Link: https://leetcode.com/problems/daily-temperatures/description/?envType=problem-list-v2&envId=dsa-linear-shoal-monotonic-stack 
 // Difficulty: Medium
-// Time O(n^2) Space O(n)
+// Time O(n) Space O(n)
 
 type temp struct{ idx, temp int }
 
