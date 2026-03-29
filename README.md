@@ -3,8 +3,8 @@
 A collection of my solutions to LeetCode algorithmic problems.
 
 ## 📊 Progress
-- **Total Solved:** 80
-- **Easy:** 21
+- **Total Solved:** 81
+- **Easy:** 22
 - **Medium:** 45
 - **Hard:** 14
 
