@@ -3,10 +3,10 @@
 A collection of my solutions to LeetCode algorithmic problems in TypeScript, Go and SQL.
 
 ## 📊 Progress
-- **Total Solved:** 118
+- **Total Solved:** 119
 - **Easy:** 36
 - **Medium:** 65
-- **Hard:** 17
+- **Hard:** 18
 
 🚀 Goals
 - Master Dynamic Programming and Graph theory.
